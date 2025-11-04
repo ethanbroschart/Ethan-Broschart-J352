@@ -20,14 +20,19 @@ button {
 }
 
 button:hover {
-    background-color:#455d75;
+    background-color: #455d75;
 }
 h1 {
     font-family: Playfair Display;
     font-size: 50px;
-    
+    background-color: #455d75;
+    color: white;
 }
 
+h2 {
+    background-color: #9cb4bc;
+    color: 
+}
 h3 {
     font-family: Playfair Display;
 }
@@ -39,4 +44,5 @@ img {
     padding: 10px;
     border-radius: 10px;
     margin-top: 25px;
+    border-color: #9cb4bc;
 }
