@@ -1,7 +1,13 @@
 body {
     background-color: #cfebdf;
+    text-align: center;
 }
 
+p {
+    font-family: Inter;
+    font-size: 15px;
+    text-align: match-parent;
+}
 button {
     background-color: #455d75;
     color: white;
@@ -13,11 +19,24 @@ button {
     border-radius: 20px;
 }
 
+button:hover {
+    background-color:#455d75;
+}
 h1 {
     font-family: Playfair Display;
+    font-size: 50px;
     
 }
 
 h3 {
     font-family: Playfair Display;
+}
+
+ul {
+    text-align: center;
+}
+img {
+    padding: 10px;
+    border-radius: 10px;
+    margin-top: 25px;
 }
