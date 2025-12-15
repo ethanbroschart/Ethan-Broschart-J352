@@ -1,0 +1,39 @@
+body {
+    background-color: #bdc2bf;
+    width: 100%;
+}
+
+p {
+    font-size: 15px;
+    font-family: "Montserrat", sans-serif;
+    text-align: left;
+}
+
+h1 {
+    font-family: "Montserrat", sans-serif;
+    font-size: 60px;
+    text-align: center;
+    background-image: url(pictures_videos/Clase_header.jpeg);
+    color: whitesmoke;
+    
+}
+
+img {
+    padding: px;
+    border-radius: 10px;
+    width: 50%;
+    height: 50%;
+    align-content: center;
+}
+
+h2 {
+    font-size: 20px;
+    text-align: center;
+    font-weight: bold;
+    font-family: "Montserrat", sans-serif;
+}
+
+h3 {
+    font-size: 12px;
+    font-family: "Montserrat", sans-serif;
+}
